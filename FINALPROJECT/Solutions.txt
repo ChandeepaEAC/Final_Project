@@ -1,0 +1,46 @@
+System Analysis-Solution 
+
+1.Computerised system has more benefits than the manual system.
+
+ The advantages of a computerized system include faster and more efficient record-keeping, 
+ access to real-time financial data,automated invoicing and cost savings.
+ No need to keep duplicate records (copies)by providing backup resources.Reduces files and their storing Space.
+ Elimination of monotonous or exhaustive manual labor.allows faster access to data
+ 
+
+2.data integration technology helps to integrate data from dispersed sources into one place
+  so that duplicate data can be avoided across multiple systems. 
+  For this problem, the Institute need to undertake Replacement Integrated System (RIS) 
+  in order to solve the problems related to information system as well as improving the business 
+  performance of the Institute.
+  student information and Programme Director's decision recorded in the database will be extracted 
+  to proceed with the enrolment when the student arrives so they can avoid providing the information 
+  twice. In addition, the college could use the software as an embedded system to develop an online 
+  enrolment process on its website to save time and minimize the events of data issues
+ 
+3.the college need to undertake Replacement Integrated System (RIS) in order to solve the problems 
+  related to information system as well as improving the business performance of the college.
+
+4.Data Storage for Analysis: Relational Databases, Big Data, and Other Options
+
+ A Database Management Software or DBM software is used for storing, manipulating, 
+ and managing data, such as format, names of fields, and record and file structures 
+ in a database environment.
+ Some of the most used database software include MySQL, Microsoft SQL Server, Microsoft 
+ Access DBMS, Oracle, IBM DB2, and FoxPro. These database management solutions features 
+ data independence, as the storage mechanism and formats can be changed without altering 
+ the entire application within the database.
+ the features of DBMS include creating, adding, editing, and removing information from a database.
+
+
+
+
+
+
+
+
+
+
+
+
+

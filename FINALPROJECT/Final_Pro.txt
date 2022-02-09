@@ -1,0 +1,109 @@
+HOME
+
+ABOUT US (About Academy) 
+
+SERVICES :   Dance -  Dancing Classes(Classical,Kandyan,Sabaragmu.......)
+                      Professional Wedding Dance Group Male & Female
+                      Wedding Surprise Dance Group/ Surprises Dance For Groom/ Surprise Dance Ideas
+                      Choreography For Wedding Couple Dance/ Wedding Group Dance
+                      Choreography For Stage drama/ TV , Commercials/ Sinhala Song Visual/ TV , Programme / Dance Competitions & Any Other
+                      Traditional & Modern Dance Costume/ Jewelry & Everything For Rent Out 
+                      Traditional Dance Course For Begins
+                      Dance Choreography & Instruction For Universities/ Companies/ Schools/ Dancers & Beginners
+                      Fusion & Creative Dance Group
+                      Sinhala/ Hindi/ Tamil/ English/ Latin Modern Dance Group For Any Other Occasion
+                      Modern Welcome Dance Group
+                      Traditional Welcome Dance
+                      Traditional Dance Group
+                        
+            Music -  Classes and Tutions(Western,Rock&heavy,...........)
+
+            Drama -  Classes and Tutions 
+
+ACADEMY DETAILS :  Dance - classes (Timetable/Instructors)
+                           Events
+                           UpcomingEvents
+
+                   Music - classes (Timetable/Instructors)
+                           Events
+                           UpcomingEvents
+
+                   Drama - classes (Timetable/Instructors)
+                           Events
+                           UpcomingEvents
+
+GALLERY  :  Dance - Academy Gallery
+                    Live Performance
+
+            Music - Academy Gallery
+                    Live Performance
+
+            Drama - Academy Gallery
+                    Live Performance
+
+
+CONTACT US
+
+LOGIN  : Admin                  ---> Check availability of dancing/music/drama and schedule date,time and events
+                                     can update new upcoming events 
+
+         User                   ---> Can search event packages and request dancing/music/drama
+                                     Can search class details and enroll into a program
+                                     Can view upcoming events
+
+         Students               ---> Can view exam registration and exam results
+                                     Can search class details and packages 
+                                     Can view Can view upcoming events
+
+         Staff(Instructors)     ---> Can schedule date,time and events
+                                     Can view students details,exam results
+                                     Can view upcoming events
+
+
+SIGN IN : New User
+
+BOOK A CLASS : User    
+         
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

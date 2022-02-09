@@ -1,0 +1,13 @@
+functional:
+customer:
+
+1.customer,students,administrator shoould be able login
+2.new customer should be able to create new account 
+3.customer should be able to search events,packages
+4.customer should be able to request dancing group,musicians,etc.
+5.customer can search class details and enroll into a program
+6.students can view exam results
+7.students can view upcoming events
+8.admin can check availabilty of dancing groups, schedule time and events
+
+student:

@@ -1,0 +1,47 @@
+body{
+
+    background-color:black;
+    background-image:url("ganesh.jpg");
+    background-repeat: no-repeat;
+    background-position: 80% 20%;
+    
+}
+
+.btn
+{
+    color:whitesmoke;
+}
+
+li
+{
+    color: whitesmoke;
+}
+
+p
+{
+    color: whitesmoke;
+}
+.navbar-nav > li{
+    padding-left:40px;
+    padding-right:40px;
+
+  }
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5%;
+    margin-bottom: auto; 
+  }
+  
+  td
+  {
+      font-size: 17px;
+      color:whitesmoke;
+      padding: 17px;
+  }
+
+  .notreg
+  {
+      padding:58px;
+  }

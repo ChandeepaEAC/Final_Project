@@ -1,0 +1,24 @@
+system analysis-weaknesses
+
+1.the current system is maintained manually
+ 
+ a computerized system is essential to better the communication between customers so that 
+  customers can reach easily.
+
+2.Data redundancy and data inconsistency
+
+the current system records annual events ,upcoming events and
+ enrolls students who would participate in those events.in this data entry ,
+ data redundancy and data inconsistency occurs in entering when assigning the particular
+ event to each and every student
+
+3.Internal communication in the system is underdeveloped.
+  communication between Administrator and external parties is vital.the Administrator is in charge 
+  of reviewing events and available groups.
+ 
+4.unavailbilty of an adequate method for large data storage(DBMS as solution)
+  
+  data regarding events , student details, examination details require major space.A sustainable
+  and reliable method is needed to the existing system which currently make use of physical file systems
+  to store.
+

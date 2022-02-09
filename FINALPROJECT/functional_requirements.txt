@@ -1,0 +1,49 @@
+customer:
+
+-customer shall be able to login
+0512
+-new customer shall be able to create new account user email,password or extra details
+-shall be able to edit profile
+-shall be able to view event packages
+-shall be able to view upcoming events AI
+-customer shall be able to send inquiry with email,telephone
+-to request event package
+-online payments after confirmation(through gmail link)
+-receive invoice 
+-customer shall be able to view upcoming concerts/dramas
+-order tickets for concert/drama
+-online payments for tickets
+-view ticket history
+
+
+Admin
+-shall be able to login
+-shall be able to view inquiries
+-shall be able to respond for inquiries through customer gmail
+-shall be able to view event calender(check availabilty of dancing groups, schedule time and events)
+-create customer account
+-view customer accounts
+-shall be able to view and confirm requests for event package
+-shall be able to edit event package
+-shall be able to add new payments from outside
+-shall be able to add upcoming events and ticket prices
+-report on tickets(which events have most bought tickets)
+-report on payments details-invoice
+-report on event
+-report on inquiries
+-2 admins
+-admin 1 can check admin 2's actions
+
+
+staff???
+event packages??
+
+
+remove login
+manage event package-add,modify,delete
+manage inquiries-view inquiries,response
+check availability as a seperate usecase
+view event package extends accpet/decline
+view reports extend 
+	ticket report(another name)
+	

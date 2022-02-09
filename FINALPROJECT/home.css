@@ -1,0 +1,59 @@
+body{
+
+    background-color:black;
+    background-image:url("dancer.jpg");
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: 80%;
+    
+}
+
+.btn
+{
+    color:whitesmoke;
+}
+.btnn
+{
+    color:black;
+}
+li
+{
+    color: whitesmoke;
+}
+
+p
+{
+    color: whitesmoke;
+}
+.navbar-nav > li{
+    padding-left:40px;
+    padding-right:40px;
+
+  }
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5%;
+    margin-bottom: auto; 
+  }
+  
+  td
+  {
+      font-size: 17px;
+      color:whitesmoke;
+      padding: 17px;
+  }
+
+  .notreg
+  {
+      padding:58px;
+  }
+
+  .cen
+  {
+    
+    position: absolute;
+    top: 50%;
+    left: 68%;
+  }

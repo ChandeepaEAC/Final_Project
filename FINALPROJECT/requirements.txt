@@ -1,0 +1,17 @@
+1)home-
+ (footer)upcoming events
+
+2)about us-academy,founder,staff
+(footer)tribute
+
+3)our services-event packages,inquire
+classes-inquire,register form
+
+4)gallery and videos +productions
+
+5)contact us+inquiry
+
+6)login icon
+
+
+
